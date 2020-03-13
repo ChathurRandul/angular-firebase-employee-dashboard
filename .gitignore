@@ -44,3 +44,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#Custom claim json
+angular-firebase-employee-dash-firebase-adminsdk-apg1e-7fffb5f3d5.json
